@@ -54,6 +54,10 @@ Exemplo:
         "imovelCondominio": "",
         "imovelIptu": "",
         "visitaAcompanhada": "false",
+        //"ModalidadeCredPago": "true", //Opcional (valores aceitos 'true' ou 'false')
+        //"ModalidadeFianca": "true", //Opcional (valores aceitos 'true' ou 'false')
+        //"ModalidadeFiador": "true", //Opcional (valores aceitos 'true' ou 'false')
+        //"ModalidadeTituloCap": "true", //Opcional (valores aceitos 'true' ou 'false')
     });
 </script>
 ```
