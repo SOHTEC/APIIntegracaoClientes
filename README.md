@@ -37,6 +37,7 @@ Exemplo:
 ```html {.line-numbers}
 <script type="text/javascript">
     SOH.Exec({
+        "customHTML": "", //Opcional (Informe aqui o seu html customizado para o botão)
         "buttonColorBg": "blue",
         "clienteId": "ID_DA_SUA_EMPRESA",
         "imovelId": "",
