@@ -11,22 +11,22 @@ Exemplo:
 <script src="https://sohtec.com.br/services/Scripts/ClientProd.js" type="text/javascript"></script>
 ```
 
-### 2º - Adicionar Botão (Área do Cliente)
+<!--### 2º - Adicionar Botão (Área do Cliente)-->
 
-Adicione o código abaixo no lugar onde você deseja que o texto seja mostrado.</br>
-Obs: O **ID_DA_SUA_EMPRESA** é fornecido pela SOHTEC no momento do contrato.
+<!--Adicione o código abaixo no lugar onde você deseja que o texto seja mostrado.</br>-->
+<!--Obs: O **ID_DA_SUA_EMPRESA** é fornecido pela SOHTEC no momento do contrato.-->
 
-Exemplo:
-```html {.line-numbers}
-<script type="text/javascript">
-    SOH.Exec({       
-        "clienteId": "ID_DA_SUA_EMPRESA"
-    });
-</script>
+<!--Exemplo:-->
+<!--```html {.line-numbers}-->
+<!--<script type="text/javascript">-->
+<!--    SOH.Exec({       -->
+<!--        "clienteId": "ID_DA_SUA_EMPRESA"-->
+<!--    });-->
+<!--</script>-->
 
-```
+<!--```-->
 
-### 3º - Adicionar Botão (Agende sua Visita e Alugue Online)
+### 2º - Adicionar Botão (Agende sua Visita e Alugue Online)
 
 Adicione o código abaixo no lugar onde você deseja que o botão seja mostrado.</br>
 No lugar das variáveis substitua com os dados do imóvel que desejar. 
