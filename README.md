@@ -32,6 +32,8 @@ Adicione o código abaixo no lugar onde você deseja que o botão seja mostrado.
 No lugar das variáveis substitua com os dados do imóvel que desejar. 
 
 Obs: O **ID_DA_SUA_EMPRESA** é fornecido pela SOHTEC no momento do contrato.
+     Todos os valores monetários devem ser no padrão PT-BR, ou seja, o separador decimal deve ser sempre (**,**).
+     Ex: **1200,00**
 
 Exemplo:
 ```html {.line-numbers}
@@ -50,9 +52,9 @@ Exemplo:
         "imovelDormitorios": "",
         "imovelVagas": "",
         "imovelCep": "00000-000",
-        "imovelAluguel": "0,00", **//Separador decimal (,) padrão PT-BR**
-        "imovelCondominio": "0,00", **//Separador decimal (,) padrão PT-BR**
-        "imovelIptu": "0,00", **//Separador decimal (,) padrão PT-BR**        
+        "imovelAluguel": "0,00", //Separador decimal (,) padrão PT-BR
+        "imovelCondominio": "0,00", //Separador decimal (,) padrão PT-BR
+        "imovelIptu": "0,00", //Separador decimal (,) padrão PT-BR        
         //"ModalidadeCredPago": "true", //Opcional (valores aceitos 'true' ou 'false')
         //"ModalidadeFianca": "true", //Opcional (valores aceitos 'true' ou 'false')
         //"ModalidadeFiador": "true", //Opcional (valores aceitos 'true' ou 'false')
