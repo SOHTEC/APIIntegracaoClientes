@@ -31,9 +31,10 @@ Exemplo:
 Adicione o código abaixo no lugar onde você deseja que o botão seja mostrado.</br>
 No lugar das variáveis substitua com os dados do imóvel que desejar. 
 
-Obs: O **ID_DA_SUA_EMPRESA** é fornecido pela SOHTEC no momento do contrato.
-     Todos os valores monetários devem ser no padrão PT-BR, ou seja, o separador decimal deve ser sempre (**,**).
-     Ex: **1200,00**
+**Obs:** O **ID_DA_SUA_EMPRESA** é fornecido pela SOHTEC no momento do contrato.
+
+Todos os valores monetários devem ser no padrão PT-BR, ou seja, o separador decimal deve ser sempre (,).
+Ex: **1200,00**
 
 Exemplo:
 ```html {.line-numbers}
