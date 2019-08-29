@@ -37,8 +37,7 @@ Exemplo:
 ```html {.line-numbers}
 <script type="text/javascript">
     SOH.Exec({
-        "customHTML": "", //Opcional (Informe aqui o seu html customizado para o botão)
-        "buttonColorBg": "blue",
+        "customHTML": "", //Opcional (Informe aqui o seu html customizado para o botão)        
         "clienteId": "ID_DA_SUA_EMPRESA",
         "imovelId": "",
         "imovelUrl": "", //Informe a URL Absoluta da imagem (Ex: http://www.seudominio.com.br/imagem.jpg)
@@ -53,8 +52,7 @@ Exemplo:
         "imovelCep": "00000-000",
         "imovelAluguel": "0,00", //Separador decimal (,) padrão PT-BR
         "imovelCondominio": "0,00", //Separador decimal (,) padrão PT-BR
-        "imovelIptu": "0,00", //Separador decimal (,) padrão PT-BR
-        "visitaAcompanhada": "false",
+        "imovelIptu": "0,00", //Separador decimal (,) padrão PT-BR        
         //"ModalidadeCredPago": "true", //Opcional (valores aceitos 'true' ou 'false')
         //"ModalidadeFianca": "true", //Opcional (valores aceitos 'true' ou 'false')
         //"ModalidadeFiador": "true", //Opcional (valores aceitos 'true' ou 'false')
@@ -62,8 +60,3 @@ Exemplo:
     });
 </script>
 ```
-
-**As cores de botões disponíveis são:**</br>
-green</br>
-blue</br>
-write</br>
