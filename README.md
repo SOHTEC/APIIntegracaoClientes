@@ -42,6 +42,7 @@ Exemplo:
     SOH.Exec({
         "customHTML": "", //Opcional (Informe aqui o seu html customizado para o botão)        
         "clienteId": "ID_DA_SUA_EMPRESA",
+        **"modulo": "LOCACAO", //ou VENDAS**
         "imovelId": "",
         "imovelUrl": "", //Informe a URL Absoluta da imagem (Ex: http://www.seudominio.com.br/imagem.jpg)
         "imovelEndereco": "",
