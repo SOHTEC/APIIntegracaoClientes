@@ -54,7 +54,7 @@ Exemplo:
         "imovelDormitorios": "",
         "imovelVagas": "",
         "imovelCep": "00000-000",
-        "imovelAluguel": "0,00", //Separador decimal (,) padrão PT-BR
+        "imovelValor": "0,00", //Separador decimal (,) padrão PT-BR
         "imovelCondominio": "0,00", //Separador decimal (,) padrão PT-BR
         "imovelIptu": "0,00", //Separador decimal (,) padrão PT-BR        
         //"ModalidadeCredPago": "true", //Opcional (valores aceitos 'true' ou 'false')
